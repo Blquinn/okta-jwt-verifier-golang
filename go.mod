@@ -1,4 +1,4 @@
-module github.com/Blquinn/okta-jwt-verifier-golang
+module bitbucket.org/tdalabs/okta-jwt-verifier-golang
 
 go 1.14
 
